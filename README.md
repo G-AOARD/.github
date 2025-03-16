@@ -15,4 +15,3 @@
 12.	[Trung2025] Vo, T., Luu, S.T. & Nguyen, LM. K-Bloom: unleashing the power of pre-trained language models in extracting knowledge graph with predefined relations. Knowl Inf Syst (2025). https://doi.org/10.1007/s10115-025-02345-1
 13.	[Xue2024] Xue, J., Nguyen, MP., Matheny, B., Nguyen, LM. (2024). BiosERC: Integrating Biography Speakers Supported by LLMs for ERC Tasks. In: Wand, M., Malinovská, K., Schmidhuber, J., Tetko, I.V. (eds) Artificial Neural Networks and Machine Learning – ICANN 2024. ICANN 2024. Lecture Notes in Computer Science, vol 15020. Springer, Cham. https://doi.org/10.1007/978-3-031-72344-5_19
 14.	Tran Cong Thanh, An Effective Framework for Legal Entailment Retrieval with Large Language Models and Optimal Transport, JAIST Master thesis 2024
-![image](https://github.com/user-attachments/assets/5ba19699-aa0a-4e9f-bf06-38bc5283415e)
